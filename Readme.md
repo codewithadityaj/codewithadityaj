@@ -49,7 +49,7 @@ Features authentication, habit analytics, and AI feedback.
 
 - 🔢 Scored **79% in SSC**, **59% in HSC**, and **75% in CET**
 - 🎓 Currently holding a **CGPA of 8.48**
-- 🧪 Participated in workshops on **Drone Tech** and **Robotic Process Automation**
+- 🧪 Participated in various workshops like **Drone Tech**, **Robotic Process Automation**, **Advanced Python**
 
 ---
 
