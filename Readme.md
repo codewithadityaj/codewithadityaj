@@ -57,17 +57,6 @@ Features authentication, habit analytics, and AI feedback.
 
 - 🌐 [LinkedIn]((https://www.linkedin.com/in/aditya-jadhav-b24913257/))
 - 📧 Email: adityajadhav11193@gmail.com
-- 🌟 GitHub Stats below 👇
-
----
-
-## 📈 GitHub Stats
-
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityajadhav&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityajadhav&layout=compact&theme=radical)
-
----
 
 ### ✨ “Building tech that empowers communities, one project at a time.”
 
