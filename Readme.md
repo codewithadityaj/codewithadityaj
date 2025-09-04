@@ -31,10 +31,9 @@ Built using React, inspired by the Tinder UI.
 → *Received academic excellence for this project.*
 
 ### 🧠 Habit Builder with Community Support  
-Helps Gen Z users build good habits with progress tracking and social support.  
-Features authentication, habit analytics, and AI feedback.  
-→ *Frontend built with Lovable.dev & Node.js; Now adding full-stack functionality*
-
+Helps Gen Z users build good habits with progress tracking and social support  
+Features authentication, habit analytics, and AI feedback  
+→ *Role: Backend & Cloud Developer (Django)* — built REST APIs, designed database models, implemented authentication, and handled deployment & cloud integration  
 ---
 
 ## 📊 Recent Work
@@ -45,11 +44,20 @@ Features authentication, habit analytics, and AI feedback.
 
 ---
 
-## 📚 Academic Milestones
+## 🏆 Achievements
 
-- 🔢 Scored **79% in SSC**, **59% in HSC**, and **75% in CET**
-- 🎓 Currently holding a **CGPA of 8.48**
-- 🧪 Participated in various workshops like **Drone Tech**, **Robotic Process Automation**, **Advanced Python**
+- 🥈 **First Runner-up – National Level 24-hour Hackathon**  
+  Built and presented a working prototype within 24 hours, competing against top teams nationwide. Recognized for innovation, teamwork, and technical execution.  
+
+- 🎓 **Certifications**  
+  - Power BI  
+  - Advanced Excel  
+
+- 📢 **Organized Workshops**  
+  Successfully organized 5-day workshops on **Drones** and **Robotic Process Automation (RPA)** in collaboration with **NIELIT**, handling logistics, coordination, and reporting.  
+
+- 🎯 **Leadership & Event Management**  
+  Managed multiple college events single-handedly, including flyer creation, permissions, attendance, and report writing. Demonstrated strong organizational and leadership skills.  
 
 ---
 
