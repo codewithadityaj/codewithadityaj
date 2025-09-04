@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Aditya Ashok Jadhav
+# 👋 Hi there, I'm Aditya Jadhav
 
 🎓 I'm currently a Final-year B.Tech (Minors in Data Science) student at MIT Chhatrapati Sambhajinagar, Maharashtra.  
 💻 Passionate about building impactful software from web apps to IoT-integrated systems.  
