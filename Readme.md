@@ -34,6 +34,7 @@ Built using React, inspired by the Tinder UI.
 Helps Gen Z users build good habits with progress tracking and social support  
 Features authentication, habit analytics, and AI feedback  
 → *Role: Backend & Cloud Developer (Django)* — built REST APIs, designed database models, implemented authentication, and handled deployment & cloud integration  
+
 ---
 
 ## 📊 Recent Work
